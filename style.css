@@ -1,0 +1,56 @@
+table
+{
+  border-collapse: collapse;
+  width: 100%;
+  height: 400px;
+  font-size:0;
+}
+#vert
+{
+  background-color: #2ECC71;
+
+}
+.rouge
+{
+  background-color: #E74C3C;
+  width: 50%;
+
+}
+#orange
+{
+  background-color: #E67E22;
+  
+}
+#gris
+{
+  background-color:#808080;
+  width: 10%;
+}
+#jaune
+{
+  background-color: #F39C12;
+  width: 30%;
+}
+#bleu
+{
+  background-color: #16A085;
+  width: 20%;
+}
+
+#marine
+{
+  background-color: #2C3E50;
+
+}
+#ligne1
+{
+  height: 12,5%;
+}
+#ligne2, #ligne3
+{
+  height: 18,7%;
+}
+#ligne4
+{
+  height: 50%;
+}
